@@ -6,7 +6,7 @@ A data-driven analysis of the causal link between the 2018 U.S.-China Trade War 
 
 > **"Trade Shock and Environmental Spillover: The Causal Link Between U.S.-China Trade War and Increased Soy-Beef Driven Deforestation in the Brazilian Amazon"**
 
-**Author**: Dilon George Pereira (110972)  
+**Author**: Dilon Pereira  
 **University**: University of Passau – Chair of International Economics  
 **Date**: March 2026
 
@@ -36,4 +36,4 @@ This SQL pipeline prepares the exact export and deforestation variables used in 
 
 **Tech Stack**: SQL Server | T-SQL | Views | Data Cleaning
 
-**Related**: [Full Thesis PDF](https://github.com/yourusername/us-china-trade-war-soy-beef-analysis/blob/main/Dilon_Pereira_110972_Thesis.pdf)
+**Related**: [Full Thesis PDF](https://github.com/DilonPereira/us-china-trade-war-soy-beef-analysis/blob/main/Dilon_Pereira_110972_Thesis.pdf)
