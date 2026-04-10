@@ -35,5 +35,3 @@ This SQL pipeline prepares the exact export and deforestation variables used in 
 ---
 
 **Tech Stack**: SQL Server | T-SQL | Views | Data Cleaning
-
-**Related**: [Full Thesis PDF](https://github.com/DilonPereira/us-china-trade-war-soy-beef-analysis/blob/main/Dilon_Pereira_110972_Thesis.pdf)
